@@ -9,12 +9,13 @@
 Bootstrap5 Containers Class->
 
 ```
-Class Extrasmall<576px  Small≥576px  Medium≥768px Large≥992px Extra large≥1200px XXL≥1400px
-.container-sm  100% 540px 720px 960px 1140px 1320px
-.container-md   100% 100% 720px 960px 1140px 1320px
-.container-lg   100% 100% 100% 960px 1140px 1320px
-.container-xl   100% 100% 100% 100% 1140px 1320px
-.container-xxl  100% 100% 100% 100% 100% 1320px
+Class             Extrasmall | Small  |Medium  |Large |Extralarge |XXL≥1400px
+                  <576px     | ≥576px |≥768px  |≥992px|≥1200px    |
+_____________________________|________|________|______|___________|__________
+.container-md     100%       | 100%   |720px   |960px | 1140px    |1320px
+.container-lg     100%       | 100%   |100%    |960px | 1140px    |1320px
+.container-xl     100%       | 100%   |100%    |100%  | 1140px    |1320px
+.container-xxl    100%       | 100%   |100%    |100%  | 100%      |1320px
 ```
 ---
 
